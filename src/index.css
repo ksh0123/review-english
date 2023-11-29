@@ -16,7 +16,7 @@
 
 @layer components {
   .container {
-    @apply bg-red-100 min-h-screen max-w-screen-md mx-auto px-8 pt-20;
+    @apply bg-yellow-50 min-h-screen max-w-screen-md mx-auto px-8 pt-20;
   }
 
   .btn-style {
