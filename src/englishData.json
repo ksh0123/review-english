@@ -1,0 +1,262 @@
+[
+  {
+    "day": 1,
+    "title": "Getting to Know Each Other",
+    "sentences": [
+      {
+        "english": "Hi! It's a pleasure to meet you. My name is Michael, and I'm from Los Angeles. How about you?",
+        "korean": "안녕하세요! 만나서 반갑습니다. 제 이름은 Michael이고, 저는 로스앤젤레스 출신이에요. 당신은 어디에서 왔어요?"
+      },
+      {
+        "english": "Nice to meet you, Michael! I'm Jiyeon, and I'm originally from Busan.",
+        "korean": "만나서 반가워요, Michael씨! 제 이름은 Jiyeon이고, 제 고향은 부산이에요."
+      },
+      {
+        "english": "Oh, Busan! That's fascinating. I've always wanted to visit there. What do you do for a living?",
+        "korean": "오, 부산이요! 정말 흥미로워 보여요. 나중에 가보고 싶었어요. 직업은 무엇인가요?"
+      },
+      {
+        "english": "I work in marketing. It's a challenging but rewarding field. How about you, Michael?",
+        "korean": "저는 마케팅 분야에서 일하고 있어요. 도전적이지만 보람 있는 일이에요. Michael씨는요?"
+      },
+      {
+        "english": "I'm a software developer. It involves a lot of coding, but I enjoy the problem-solving aspect of it.",
+        "korean": "저는 소프트웨어 개발자에요. 많은 코딩이 필요하지만, 문제 해결하는 과정이 즐거워요."
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "title": "Daily Interactions",
+    "sentences": [
+      {
+        "english": "Excuse me, could you help me find the nearest post office? I need to mail a package.",
+        "korean": "실례합니다만, 가장 가까운 우체국을 어떻게 찾을 수 있는지 도와주실 수 있을까요? 소포를 보내야 해서요."
+      },
+      {
+        "english": "Of course! Go straight down this street, and you'll find it on your left. It's about a five-minute walk.",
+        "korean": "물론이죠! 이 길을 따라 직진하시면 왼쪽에 있을 거에요. 걸어서 다섯 분 정도 걸릴 거에요."
+      },
+      {
+        "english": "Thank you so much for your help. I really appreciate it!",
+        "korean": "도와주셔서 정말 감사합니다. 정말 감사해요!"
+      },
+      {
+        "english": "You're welcome! If you have any more questions, feel free to ask. Have a great day!",
+        "korean": "천만에요! 더 궁금한 게 있으면 언제든지 물어봐주세요. 즐거운 하루 되세요!"
+      },
+      {
+        "english": "I will, thank you. Have a wonderful day too!",
+        "korean": "알겠어요, 감사합니다. 여러분도 행복한 하루 보내세요!"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "title": "Exploring the City",
+    "sentences": [
+      {
+        "english": "I heard there's a beautiful park nearby. Do you know how to get there?",
+        "korean": "근처에 아름다운 공원이 있다고 들었어요. 가는 방법 아시나요?"
+      },
+      {
+        "english": "Yes, it's just a short walk from here. Head straight, and you'll see the entrance on your right.",
+        "korean": "네, 여기서 걸어서 금방이에요. 직진하다보면 오른쪽에 입구가 보일 거에요."
+      },
+      {
+        "english": "That sounds wonderful. I love spending time in nature. Are there any good cafes around the park?",
+        "korean": "좋아 보여요. 자연에서 시간을 보내는 걸 좋아해요. 공원 주변에 좋은 카페 있을까요?"
+      },
+      {
+        "english": "Absolutely! There's a charming café just across from the park entrance. It has a lovely outdoor seating area.",
+        "korean": "물론이에요! 공원 입구 바로 건너편에 매력적인 카페가 있어요. 아름다운 야외 좌석도 있답니다."
+      },
+      {
+        "english": "Perfect! I'll check it out. Thanks for the recommendation!",
+        "korean": "완벽해요! 한 번 가보겠어요. 추천해주셔서 감사해요!"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "title": "Trying Local Cuisine",
+    "sentences": [
+      {
+        "english": "I've heard Korean barbecue is a must-try. Do you know a good place nearby?",
+        "korean": "한국 바비큐는 꼭 먹어봐야 한다고 들었어요. 근처에 좋은 곳 아시나요?"
+      },
+      {
+        "english": "Absolutely! There's an excellent barbecue restaurant just a few blocks away. They have a variety of meats.",
+        "korean": "물론이에요! 몇 블록 떨어진 곳에 훌륭한 바비큐 식당이 있어요. 다양한 종류의 고기를 제공해요."
+      },
+      {
+        "english": "Sounds fantastic! Is there anything on the menu you recommend trying?",
+        "korean": "정말 좋아보여요! 메뉴 중에 추천하시는 게 있나요?"
+      },
+      {
+        "english": "The marinated beef ribs are a popular choice. They're tender and bursting with flavor.",
+        "korean": "양념 갈비는 인기 있는 선택이에요. 부드럽고 풍부한 맛이 나요."
+      },
+      {
+        "english": "I'll go with that, then. Thanks for the suggestion!",
+        "korean": "그럼 그걸로 하겠어요. 제안해주셔서 감사해요!"
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "title": "A Day at the Museum",
+    "sentences": [
+      {
+        "english": "I'm interested in Korean history. Is there a good museum around here?",
+        "korean": "저는 한국 역사에 관심이 있어요. 근처에 좋은 박물관이 있나요?"
+      },
+      {
+        "english": "Yes, there's a fantastic history museum just a short bus ride away. It covers various periods in Korean history.",
+        "korean": "네, 버스로 잠시 가면 멋진 역사 박물관이 있어요. 다양한 한국 역사 시기를 다루고 있어요."
+      },
+      {
+        "english": "That sounds intriguing. What are the museum's operating hours?",
+        "korean": "흥미로워 보여요. 박물관의 운영 시간이 어떻게 되나요?"
+      },
+      {
+        "english": "The museum is open from 9 AM to 6 PM, Tuesday through Sunday. Closed on Mondays.",
+        "korean": "박물관은 화요일부터 일요일까지 오전 9시부터 오후 6시까지 운영돼요. 월요일에는 휴무에요."
+      },
+      {
+        "english": "Great! I'll plan a visit this weekend. Thanks for the information!",
+        "korean": "좋아요! 이번 주말에 방문 계획을 세우겠어요. 정보 주셔서 감사해요!"
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "title": "Language Learning Progress",
+    "sentences": [
+      {
+        "english": "I've been practicing Korean phrases every day. It's challenging but fun!",
+        "korean": "매일 한국어 표현을 연습하고 있어요. 도전적이지만 재미있어요!"
+      },
+      {
+        "english": "That's impressive! How do you usually practice? Any tips?",
+        "korean": "인상적이에요! 보통 어떻게 연습하나요? 팁이 있나요?"
+      },
+      {
+        "english": "I use language learning apps, watch Korean dramas with subtitles, and try chatting with native speakers online.",
+        "korean": "언어 학습 앱을 사용하고 한국 드라마를 자막과 함께 보며 온라인에서 원어민과 대화해봐요."
+      },
+      {
+        "english": "Those sound like effective methods. I'll give them a try. Thanks for sharing!",
+        "korean": "효과적인 방법 같아 보여요. 한 번 시도해보겠어요. 공유해주셔서 감사해요!"
+      },
+      {
+        "english": "No problem! Learning a new language takes time, but the key is consistency. Keep it up!",
+        "korean": "문제 없어요! 새로운 언어를 배우는 데에는 시간이 걸리지만, 핵심은 꾸준함이에요. 계속 하세요!"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "title": "Making Acquaintances",
+    "sentences": [
+      {
+        "english": "Hello there! It's wonderful to finally meet you. My name is Alex, and I'm originally from Los Angeles.",
+        "korean": "안녕하세요! 드디어 만나서 반가워요. 제 이름은 Alex이고, 원래는 로스앤젤레스 출신이에요."
+      },
+      {
+        "english": "I've heard so much about the warm hospitality of Koreans, and I'm excited to experience it firsthand.",
+        "korean": "한국인들의 따뜻한 환대에 대해 많이 들어봤는데, 이를 직접 체험해보는 게 기대돼요."
+      },
+      {
+        "english": "What about you? Where are you from, and what brings you to learn Korean?",
+        "korean": "당신은 어디 출신이고, 한국어를 배우려는 동기가 뭐에요?"
+      },
+      {
+        "english": "Oh, that's fascinating! Learning about different cultures is truly enriching.",
+        "korean": "오, 정말 흥미롭네요! 다양한 문화에 대해 배우는 건 정말 풍부한 경험이에요."
+      },
+      {
+        "english": "Let's embark on this Korean language journey together and make it a memorable experience!",
+        "korean": "우리 함께 이 한국어 학습 여정을 시작하고, 기억에 남는 경험으로 만들어봐요!"
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "title": "Navigating the City",
+    "sentences": [
+      {
+        "english": "Good morning! I hope you had a restful night. Today, I need to find the nearest bookstore.",
+        "korean": "안녕하세요! 즐거운 아침이에요. 어제 밤 푹 쉬셨기를 바라요. 오늘은 가장 가까운 서점을 찾아봐야 해요."
+      },
+      {
+        "english": "Excuse me, do you know if there's a bookstore around here? I heard they have a great selection of Korean language books.",
+        "korean": "실례합니다, 근처에 서점이 있을까요? 한국어 교재가 풍부하다고 들었어요."
+      },
+      {
+        "english": "Thank you so much! I appreciate your help. By the way, is there a nice café nearby where we can grab a cup of coffee?",
+        "korean": "정말 감사해요! 도움이 정말 감사해요. 그런데 근처에 좋은 카페 있을까요? 커피 한 잔 할 만한 곳이요."
+      },
+      {
+        "english": "Perfect! Let's explore the bookstore and then enjoy a relaxing coffee break.",
+        "korean": "훌륭해요! 서점을 탐험한 다음에 한잔의 여유를 즐겨봐요."
+      },
+      {
+        "english": "I'm eager to find some interesting Korean novels and maybe a helpful language guide.",
+        "korean": "흥미로운 한국 소설이나 도움이 되는 언어 가이드를 찾아보고 싶어요."
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "title": "Cultural Exploration",
+    "sentences": [
+      {
+        "english": "Good afternoon! Today, I thought it would be fantastic to immerse ourselves in Korean culture.",
+        "korean": "안녕하세요! 오늘은 한국 문화에 몰두하는 것이 멋지겠다고 생각했어요."
+      },
+      {
+        "english": "I've heard about a traditional Hanbok rental place nearby. How about we try on these beautiful Korean garments?",
+        "korean": "근처에 전통 한복 대여소가 있다고 들었어요. 이 아름다운 한국 의상을 입어보는 건 어때요?"
+      },
+      {
+        "english": "Imagine strolling around in Hanbok, experiencing a bit of Korean history and tradition.",
+        "korean": "한복을 입고 거닐면서 한국 역사와 전통을 조금이나마 느껴보는 상상이 들어요."
+      },
+      {
+        "english": "Afterward, we can savor some traditional Korean cuisine. How does that sound?",
+        "korean": "그 뒤에는 전통 한식을 맛볼 수 있을 거에요. 어때요?"
+      },
+      {
+        "english": "I'm looking forward to this cultural adventure with you. Let's make it memorable!",
+        "korean": "이 문화적인 모험을 당신과 함께 할 것을 기대하고 있어요. 기억에 남는 순간으로 만들어봐요!"
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "title": "Dining Etiquette",
+    "sentences": [
+      {
+        "english": "Good afternoon! Today, let's delve into Korean dining etiquette, an essential aspect of the culture.",
+        "korean": "안녕하세요! 오늘은 한국의 식사 에티켓, 문화의 필수적인 부분에 대해 알아봐요."
+      },
+      {
+        "english": "When dining in Korea, it's customary to say 'Jal meokkessumnida' before starting the meal, expressing gratitude for the food.",
+        "korean": "한국에서 식사할 때는 '잘 먹겠습니다'라고 말하는 것이 습관이에요. 음식에 대한 감사의 표현이에요."
+      },
+      {
+        "english": "Using chopsticks and a spoon is common. The spoon is for rice and soup, while chopsticks are for side dishes.",
+        "korean": "젓가락과 숟가락을 사용하는 것이 일반적이에요. 숟가락은 밥과 국에, 젓가락은 반찬에 사용돼요."
+      },
+      {
+        "english": "Feel free to try a variety of banchan (side dishes). It's a delightful way to experience diverse flavors.",
+        "korean": "다양한 반찬을 자유롭게 시도해보세요. 다양한 맛을 경험하는 즐거운 방법이에요."
+      },
+      {
+        "english": "And don't hesitate to pour drinks for others during a meal, a gesture of camaraderie and respect.",
+        "korean": "식사 중에 다른 사람들을 위해 술을 따르는 것이 친목과 존경의 표시에요."
+      }
+    ]
+  }
+]
