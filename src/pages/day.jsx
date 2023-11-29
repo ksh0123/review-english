@@ -9,6 +9,7 @@ const Day = () => {
   const [dailyData, setDailyData] = useState();
   const [isVisible, setIsVisible] = useState(false);
   const [currentPage, setCurrentPage] = useState(0);
+  const [isLoading, setIsLoading] = useState(false);
 
   const { day } = useParams();
 
@@ -16,25 +17,32 @@ const Day = () => {
     currentPage === dailyData.sentences.length - 1
       ? setCurrentPage(0)
       : setCurrentPage(currentPage + 1);
+
+    setIsVisible(false);
   };
 
   const onClickPrev = () => {
     currentPage === 0
       ? setCurrentPage(dailyData.sentences.length - 1)
       : setCurrentPage(currentPage - 1);
+
+    setIsVisible(false);
   };
 
   const onClickSound = async () => {
     try {
+      setIsLoading(true);
+      if (isLoading) return;
+
       const response = await axios.post(
         `https://texttospeech.googleapis.com/v1/text:synthesize?key=${process.env.REACT_APP_API_KEY}`,
         {
           input: {
-            text: dailyData.sentences[currentPage].english,
+            text: dailyData.sentences[currentPage].korean,
           },
           voice: {
-            languageCode: "en-US",
-            name: "en-US-News-L",
+            languageCode: "ko-KR",
+            name: "ko-KR-Standard-B",
             ssmlGender: "FEMALE",
           },
           audioConfig: {
@@ -54,8 +62,11 @@ const Day = () => {
       const newAudio = new Audio(URL.createObjectURL(blob));
       document.body.appendChild(newAudio);
       newAudio.play();
+
+      setTimeout(() => setIsLoading(false), 3000);
     } catch (error) {
       console.error(error);
+      setTimeout(false);
     }
   };
 
@@ -76,12 +87,12 @@ const Day = () => {
         Day {dailyData.day} - {dailyData.title}
       </h1>
       <div className="mt-12 whitespace-pre-line ">
-        <div>{dailyData.sentences[currentPage].english}</div>
+        <div>{dailyData.sentences[currentPage].korean}</div>
         <div
           className={`${!isVisible && "bg-black"}`}
           onClick={() => setIsVisible(!isVisible)}
         >
-          {dailyData.sentences[currentPage].korean}
+          {dailyData.sentences[currentPage].english}
         </div>
         <div className="mt-4">
           <button className="btn-style" onClick={onClickPrev}>
