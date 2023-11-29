@@ -38,11 +38,11 @@ const Day = () => {
         `https://texttospeech.googleapis.com/v1/text:synthesize?key=${process.env.REACT_APP_API_KEY}`,
         {
           input: {
-            text: dailyData.sentences[currentPage].korean,
+            text: dailyData.sentences[currentPage].english,
           },
           voice: {
-            languageCode: "ko-KR",
-            name: "ko-KR-Standard-B",
+            languageCode: "en-US",
+            name: "en-US-News-L",
             ssmlGender: "FEMALE",
           },
           audioConfig: {
@@ -87,12 +87,12 @@ const Day = () => {
         Day {dailyData.day} - {dailyData.title}
       </h1>
       <div className="mt-12 whitespace-pre-line ">
-        <div>{dailyData.sentences[currentPage].korean}</div>
+        <div>{dailyData.sentences[currentPage].english}</div>
         <div
           className={`${!isVisible && "bg-black"}`}
           onClick={() => setIsVisible(!isVisible)}
         >
-          {dailyData.sentences[currentPage].english}
+          {dailyData.sentences[currentPage].korean}
         </div>
         <div className="mt-4">
           <button className="btn-style" onClick={onClickPrev}>
